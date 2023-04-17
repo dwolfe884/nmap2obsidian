@@ -17,7 +17,7 @@ This script was written in ~30 min while I was bored in class, so it has not bee
 - [ ] Add switch to output to file instead of stdout
 
 ---
-## I'm on buy <a href="https://www.buymeacoffee.com/djwolfe">meacoffee!</a>
+## I'm on <a href="https://www.buymeacoffee.com/djwolfe">buymeacoffee!</a>
 <div align="center">
   <a href="https://www.buymeacoffee.com/djwolfe">
     <img height="100px" src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" />
