@@ -12,9 +12,10 @@ This .canvas file can then be moved into your Obsidian vault and be used as a ce
 # Future Work
 This script was written in ~30 min while I was bored in class, so it has not been tested very well and doesn't support parsing out nmap script outputs or other advanced features. If you are using this and want some specific feature added open an issue and I should have time to fiddle with it more.
 
-- [ ] Add script output
 - [ ] Fix OS detection display
-- [ ] Add switch to output to file instead of stdout
+- [x] Add switch to output to file instead of stdout
+- [x] Add masscan support
+- [x] Add update feature
 
 ---
 ## I'm on <a href="https://www.buymeacoffee.com/djwolfe">buymeacoffee!</a>
